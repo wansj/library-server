@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../graphql/Subscription.js"],"names":["Subscription","module","exports"],"mappings":";;AAAA,IAAMA,mFAAN;;AAMAC,OAAOC,OAAP,GAAiBF,YAAjB","file":"Subscription.js","sourcesContent":["const Subscription = `\n  type Subscription{\n    postAdded(sessionId: ID!): Post\n  }\n`\n\nmodule.exports = Subscription"]}
