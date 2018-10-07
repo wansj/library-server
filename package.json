@@ -18,7 +18,7 @@
     "graphql-tag": "^2.8.0",
     "graphql-tools": "^2.23.1",
     "micro": "^9.1.0",
-    "micro-cors": "^0.1.0",
+    "micro-cors": "0.1.0",
     "microrouter": "^3.0.0",
     "moment": "^2.22.2",
     "mongodb": "^3.0.1",
